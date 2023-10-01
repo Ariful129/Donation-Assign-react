@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/2SxWhTd/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0051ff5c",
+      "card_bg": "#0052FF26",
+      "text_color": "#0051ffba",
+      "description": "Provide clean and safe drinking water to communities in need.Provide clean and safe drinking water to communities in need.",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/8s0SbC4/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "category_bg": "#CFB8C3",
+      "card_bg": "#d0f4e6",
+      "text_color": "#333",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 230
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/M9pHNzb/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#f39c12",
+      "card_bg": "#fef9e7",
+      "text_color": "#333",
+      "description": "Ensure access to quality education for underprivileged children.Ensure access to quality education for underprivileged children.",
+      "price": 290
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/p1rGTJS/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f5c6cb",
+      "text_color": "#333",
+      "description": "Support Food services for those in need of medical attention.Support Food services for those in need of medical attention.",
+      "price": 260
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/p1rGTJS/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#e74c3c",
+        "card_bg": "#f5c6cb",
+        "text_color": "#333",
+        "description": "Support Food services for those in need of medical attention.Support Food services for those in need of medical attention.",
+        "price": 260
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/M9pHNzb/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#f39c12",
+        "card_bg": "#fef9e7",
+        "text_color": "#333",
+        "description": "Ensure access to quality education for underprivileged children.Ensure access to quality education for underprivileged children.",
+        "price": 290
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/8s0SbC4/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#2ecc71",
+        "card_bg": "#d0f4e6",
+        "text_color": "#333",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 230
+      },
+      {
+        "id": 8,
+        "img": "https://i.ibb.co/2SxWhTd/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0051ff5c",
+        "card_bg": "#0052FF26",
+        "text_color": "#333",
+        "description": "Provide clean and safe drinking water to communities in need.Provide clean and safe drinking water to communities in need.",
+        "price": 150
+      },
+      {
+        "id": 9,
+        "img": "https://i.ibb.co/2SxWhTd/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0051ff5c",
+        "card_bg": "#0052FF26",
+        "text_color": "#333",
+        "description": "Provide clean and safe drinking water to communities in need.Provide clean and safe drinking water to communities in need.",
+        "price": 150
+      },
+      {
+        "id": 10,
+        "img": "https://i.ibb.co/8s0SbC4/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#2ecc71",
+        "card_bg": "#d0f4e6",
+        "text_color": "#333",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 230
+      },
+      {
+        "id": 11,
+        "img": "https://i.ibb.co/M9pHNzb/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#f39c12",
+        "card_bg": "#fef9e7",
+        "text_color": "#333",
+        "description": "Ensure access to quality education for underprivileged children.Ensure access to quality education for underprivileged children.",
+        "price": 290
+      },
+      {
+        "id": 12,
+        "img": "https://i.ibb.co/p1rGTJS/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#e74c3c",
+        "card_bg": "#f5c6cb",
+        "text_color": "#333",
+        "description": "Support Food services for those in need of medical attention.Support Food services for those in need of medical attention.",
+        "price": 260
+      }
+  ]
+  
